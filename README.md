@@ -195,6 +195,8 @@ Weekly digest on a cron schedule: `POST http://localhost:8000/digest/run`
 
 Webhook-triggered ingest: `POST http://localhost:8000/ingest/`
 
+![screenshot](docs/screenshot4.png)
+
 ---
 
 ## Project Structure
@@ -234,4 +236,3 @@ ai-research-agent/
 ![screenshot](docs/screenshot1.png)
 ![screenshot](docs/screenshot2.png)
 ![screenshot](docs/screenshot3.png)
-![screenshot](docs/screenshot4.png)
